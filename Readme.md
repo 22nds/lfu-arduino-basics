@@ -8,7 +8,6 @@ Za delavnico potrebujete:
 - 2 x žičke
 - 1 x LDR sensor svetlobe
 - Testna ploščica (Breadboard)
-==========================
-- USB kabel
+- USB kabel (Type A - Mini B)
 - Računalnik
 - Programska oprema (Arduino, Processing)
