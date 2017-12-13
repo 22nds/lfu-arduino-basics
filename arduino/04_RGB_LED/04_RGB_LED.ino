@@ -1,7 +1,7 @@
 
 int redPin = 3;
-int greenPin = 6;
-int bluePin = 5;
+int greenPin = 5;
+int bluePin = 6;
 
 void setup() {
   // set up OUTPUTS
@@ -13,11 +13,11 @@ void setup() {
 void loop()
 {
     setColor(255, 0, 0);  // red
-    delay(500);
+    delay(3000);
     setColor(0, 255, 0);  // green
-    delay(500);
+    delay(2000);
     setColor(0, 0, 255);  // blue
-    delay(500);
+    delay(1000);
 }
 
 void setColor(int red, int green, int blue)

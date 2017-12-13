@@ -20,4 +20,5 @@ void loop()
 
     // write values to serial port
     Serial.println( output );
+    // Serial.write( output );
 }
