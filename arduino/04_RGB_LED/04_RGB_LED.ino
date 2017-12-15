@@ -1,4 +1,3 @@
-
 int redPin = 3;
 int greenPin = 5;
 int bluePin = 6;
